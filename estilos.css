@@ -1,4 +1,123 @@
+
+
 #inicio{
     width: 100%;
-    background-image: url(./img/kanto-map.jpg);
+    background-image: url(./img/escenario/kanto-map.jpg);
 }
+
+#pokedex{
+    width: 99%;
+}
+
+.pokemon-pokedex{
+    font-size: 50px;
+}
+
+#bulbasaur{
+    width: 50%;
+    text-align: center;
+    color: black;
+    background-color: rgb(54, 157, 54);
+    border: solid 5px;
+}
+
+#charmander{
+    width: 50%;
+    border: solid 5px;
+    text-align: center;
+    color: black;
+    background-color: red;
+}
+
+#froakie{
+    width: 50%;
+    border: solid 5px;
+    text-align: center;
+    color: black;
+    background-color: aqua;
+}
+
+.titulo{
+    width: 100%;
+    font-size: 350%;
+    text-align: center;
+}
+
+#fond-b{
+    width: 100%;
+    height: 100%;
+    background-image: url(./img/escenario/jungla.jpg);
+}
+
+.imagen{
+    width: 50%;
+}
+
+.bloque{
+    padding-left: 5px;
+    padding-right: 5px;
+    width: 33%;
+}
+
+#bloque-pokemon{
+    width: 100%;
+    display: flex;
+    text-align: center;
+}
+
+#titulopok{
+    width: 100%;
+    display: flex;
+    text-align: center;
+    font-size: 150%;
+}
+
+.verde{
+    width: 75%;
+    border: solid 5px black;
+    background-color: rgba(54, 157, 54, 0.7);
+    font-size: 250%;
+    text-align: center;
+    color: black;
+}
+
+#bloque-b{
+    display: flex;
+    width: 100%;
+}
+
+#contenido-b{
+    width: 100%;
+    height: auto;
+    font-size: 30px;
+    text-align: justify;
+    border: solid 4px black;
+    background-color: rgba(54, 157, 54, 0.7);
+}
+
+#volver{
+    width: 50%;
+}
+
+#num{
+    width: 50%;
+}
+
+#tipo-b{
+    font-size: 120%;
+    display: flex;
+    padding-left: 12px;
+    width: 25%;
+}
+
+#tipo-b-planta{
+    font-size: 150%;
+}
+
+#tipo-b-deb{
+    font-size: 120%;
+    padding-left: 12px;
+    width: 25%;
+}
+
+
