@@ -114,10 +114,11 @@
     font-size: 150%;
 }
 
-#tipo-b-deb{
-    font-size: 120%;
-    padding-left: 12px;
-    width: 25%;
+#Evoluciones-b{
+    background-color: rgba(54, 157, 54, 0.7);
+    width: 50%;
+    border: solid 4px black;
+    margin-left: 15%;
 }
 
 
