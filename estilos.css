@@ -164,3 +164,38 @@
     margin-left: 15%;
 }
 
+#fond-f{
+    width: 100%;
+    height: 100%;
+    background-image: url(./img/escenario/Fondoagua.jpg);
+}
+
+.azul{
+    width: 75%;
+    border: solid 5px black;
+    background-color: rgba(54, 130, 157, 0.7);
+    font-size: 250%;
+    text-align: center;
+    color: black;
+}
+
+#contenido-f{
+    width: 100%;
+    height: auto;
+    font-size: 30px;
+    text-align: justify;
+    border: solid 4px black;
+    background-color: rgba(54, 130, 157, 0.7);
+}
+
+#bloque-f{
+    display: flex;
+    width: 80%;
+}
+
+#Evoluciones-f{
+    background-color: rgba(54, 130, 157, 0.7);
+    width: 50%;
+    border: solid 4px black;
+    margin-left: 15%;
+}
